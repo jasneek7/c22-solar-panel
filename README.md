@@ -1,1 +1,1 @@
-# c22-solar-panel
+# solar_power
